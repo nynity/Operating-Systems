@@ -1,3 +1,4 @@
 Operating systems provide an interface that allows users to interact with computer hardware.
-OS's allow you to manage files, manage memory, and execute programs. Operating systems also manage how some 
-of the hardware is used, and ensures it is used efficiently.
+OS's allow you to manage files, manage memory, and execute programs. Operating systems provide a convenient way for users to perform many essential tasks.
+
+Operating systems also manage a lot of things for you in the background to ensure efficient use of your computer and it's resources. One instance of this is memory management. The OS will manage your computers primary memory, for example it will load programs into the primary memory from the disk so that they be worked with. The OS also checks how much memory is needed for different processes and will allocate that amount of memory for it.
